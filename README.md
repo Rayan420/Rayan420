@@ -5,9 +5,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="www.linkedin.com/in/a-rayan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/eng_ar17420?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="medoahmad78@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -26,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Ahmed Rayan <br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning Software Engineering at Üsküdar University<br>- ⚡ In my free time I like to play Call of Duty when not fixing or creating bugs</p>
+<p align="left">I'm Ahmed Rayan <br><br>- 🔭 I’m a Software Engineering Student<br>- 📚 I'm currently learning at Üsküdar University<br>- ⚡ In my free time I like to play Call of Duty when not fixing or creating bugs</p>
 
 ###
 
