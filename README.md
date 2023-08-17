@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Ahmed Rayan <br><br>- 🔭 I’m a Software Engineering Student<br>- 📚 I'm currently learning at Üsküdar University<br>- ⚡ In my free time I like to play Call of Duty when not fixing or creating bugs</p>
+<p align="left">I'm Ahmed Rayan <br><br>- 🔭 I’m a Software Engineering Student<br>- 📚 I'm currently learning at Üsküdar University<br>- ⚡ In my free time I like to play Call of Duty when not fixing or creating buggy code</p>
 
 ###
 
